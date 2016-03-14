@@ -1,0 +1,9 @@
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\bin\Debug\BradleyErickson_Assignment3.exe.config
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\bin\Debug\BradleyErickson_Assignment3.exe
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\bin\Debug\BradleyErickson_Assignment3.pdb
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.csprojResolveAssemblyReference.cache
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.Form1.resources
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.Properties.Resources.resources
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.csproj.GenerateResource.Cache
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.exe
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment3\BradleyErickson_Assignment3\obj\Debug\BradleyErickson_Assignment3.pdb
